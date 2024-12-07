@@ -22,7 +22,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <ParkingSquare className="text-blue-600 mr-3" size={32} />
             <h1 className="text-2xl font-bold text-gray-800 tracking-wider">
-              Parking Management
+              ParkView
             </h1>
           </div>
 
