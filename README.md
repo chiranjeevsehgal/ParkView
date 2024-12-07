@@ -1,4 +1,4 @@
-# Parking Spot Monitoring System
+# Parkview: Parking Spot Monitoring System
 
 ## Introduction
 
@@ -53,7 +53,7 @@ The frontend is built using a modern web development framework, such as React, V
 
 ### Output Video/Image
 ![Output Video](Parkview-output.png)
-![Output Video](https://youtu.be/5d2QF34sqkA)
+https://youtu.be/5d2QF34sqkA
 
 ## Conclusion
 
