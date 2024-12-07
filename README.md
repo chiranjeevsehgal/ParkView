@@ -52,7 +52,7 @@ The frontend is built using a modern web development framework, such as React, V
 ![Frontend Site Image](parkview_frontend_ss.png)
 
 ### Placeholder for Output Video
-![Output Video](placeholder.jpg)
+![Output Video](parkview_output2.mp4)
 
 ## Conclusion
 
